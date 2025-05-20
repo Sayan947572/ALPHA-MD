@@ -20,7 +20,7 @@ module.exports = { session: process.env.SESSION_ID || 'ALPHA;;;H4sIAAAAAAAAA62Wy
     OWNER_REACT: process.env.OWNER_REACT || "yes",
     URL: process.env.URL || "https://files.catbox.moe/6hd2t7.jpg",  
     AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || 'yes',              
-    EMOJIS: process.env.EMOJIS || "💛,🧡,🤍,💙,🤎,💜,🩵,🩷",
+    EMOJIS: process.env.EMOJIS || "💛, 🧡, 🤍, 💙, 🤎, 💜, 🩵, 🩷",
     AUTOBIO_MSG: process.env.AUTOBIO_MSG || "I DON'T GIVE A FUCK⚔️",
    GREET_MSG: process.env.GREET_MSG || "Huskii am unavailable mzee 😂",               
     AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "yes",
